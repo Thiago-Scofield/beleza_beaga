@@ -1,6 +1,6 @@
 # 💸 App de vitrine para profissionais da beleza - Beleza Beagá
 
-Link de acesso: 
+Link de acesso: https://beleza-bh-beauty-finder.lovable.app
 
 •	A dor escolhida e por que ela vale um negócio;
 Conectar profissionais da beleza com potenciais clientes, em Belo Horizonte/MG
